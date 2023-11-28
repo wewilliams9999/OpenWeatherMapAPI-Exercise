@@ -1,4 +1,4 @@
-# Weather Application ☁️🌦️
+# Weather Application ☀️☁️⛈️🌦️
 
 ## Overview
 
